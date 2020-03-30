@@ -1,0 +1,33 @@
+#categorias{
+	width: 700px;
+	height:auto;
+	border: 5px solid grey;
+	margin: 10px auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+#rojo1{
+	background: #ff0000;
+	width: 350px;
+	height:150px;
+	border: 0px;
+	display: flex;
+	margin: 0px;
+	float: left;
+}
+#verde2{
+	background:#228b22;
+	width: 350px;
+	height: 150px;
+	border: 0px;
+	display: flex;
+	margin: 0px;
+	float: right;
+}
+#amarillo3{
+	background:#ffff00;
+	width:700px;
+	height:125px;
+	border:10px;
+	clear:both;
+}
